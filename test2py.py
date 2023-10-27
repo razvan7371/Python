@@ -1,2 +1,2 @@
-def my_function2():
-    print("Hello from my function2!")
+def my_function():
+    print("Modified function in the pull request!")
